@@ -55,7 +55,7 @@ Gem::Specification.new do |s|
      "lib/woulda/woulda_workflow/macros.rb",
      "shoulda_macros/woulda_macros.rb"
   ]
-  s.homepage = %q{http://github.com/seanhussey/woulda}
+  s.homepage = %q{http://github.com/svenaas/woulda}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{woulda}
