@@ -4,13 +4,13 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{svenaas-woulda}
+  s.name = %q{woulda}
   s.version = "0.3.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Sean Hussey", "Josh Nichols"]
   s.date = %q{2010-07-28}
-  s.description = %q{No description yet.}
+  s.description = %q{TODO}
   s.email = ["sean@seanhussey.com", "josh@technicalpickles.com"]
   s.extra_rdoc_files = [
     "LICENSE",
@@ -55,7 +55,7 @@ Gem::Specification.new do |s|
      "lib/woulda/woulda_workflow/macros.rb",
      "shoulda_macros/woulda_macros.rb"
   ]
-  s.homepage = %q{http://github.com/svenaas/woulda}
+  s.homepage = %q{http://github.com/seanhussey/woulda}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{woulda}

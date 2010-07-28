@@ -5,11 +5,11 @@ require 'rake/rdoctask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
-    s.name = "svenaas-woulda"
+    s.name = "woulda"
     s.summary = "woulda is a home for shoulda macros that don't belong in the main shoulda library"
     s.email = ["sean@seanhussey.com", "josh@technicalpickles.com"]
-    s.homepage = "http://github.com/svenaas/woulda"
-    s.description = "No description yet."
+    s.homepage = "http://github.com/seanhussey/woulda"
+    s.description = "TODO"
     s.authors = ["Sean Hussey", "Josh Nichols"]
     s.add_dependency "thoughtbot-shoulda", ">= 2.10.2"
     s.rubyforge_project = "woulda"
